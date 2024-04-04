@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 from ExportKahoot import ExportKahoot
 
@@ -15,9 +16,11 @@ with open("_index.md", "r") as f:
             print(line)
             kid = line[-37:-1]
             text = export.export(kid)
-            with open(f"kahoot/{kid}.md", "w") as kf:
+            kfilename = f"kahoot/{kid}/index.md"
+            Path(kfilename).parent.mkdir(parents=True, exist_ok=True)
+            with open(kfilename, "w") as kf:
                 kf.write(text)
-                doc.append(f" | [Solution](/kahoot/{kid})\n\n")
+                doc.append(f" / [Solution](/kahoot/{kid})\n\n")
 
 
 with open("index.md", "w") as f:
