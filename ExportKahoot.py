@@ -7,7 +7,9 @@ import requests
 
 
 class Questions:
-    questions = []
+
+    def __init__(self):
+        self.questions = []
 
     def add(self, question):
         self.questions.append(question)
@@ -124,7 +126,6 @@ class ExportKahoot:
             question = Question(question_string, choices_obj)
             questions_out.add(question)
 
-        print(str(questions_out))
         if self.csv:
             print("---------------------")
             questions_out.toExel(filename)
