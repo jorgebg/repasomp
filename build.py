@@ -20,7 +20,7 @@ with open("_index.md", "r") as f:
             Path(kfilename).parent.mkdir(parents=True, exist_ok=True)
             with open(kfilename, "w") as kf:
                 kf.write(text)
-                doc.append(f" / [Solution](/kahoot/{kid})\n\n")
+                doc.append(f" / [Solution](kahoot/{kid})\n\n")
 
 
 with open("index.md", "w") as f:
