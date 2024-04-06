@@ -2,19 +2,19 @@
 
 #### 1 - INVESTIGACIÓN/1. Primer repaso. Sesión 1
 
-https://quizizz.com/admin/quiz/646de6659109c9001e4503fc?source=quiz_share
+https://quizizz.com/embed/quiz/646de6659109c9001e4503fc
 
 #### 1 - INVESTIGACIÓN/2. Repaso citación y referencias APA7
 
-https://quizizz.com/admin/quiz/647861544bda10001e0945c0?source=quiz_share
+https://quizizz.com/embed/quiz/647861544bda10001e0945c0
 
 #### 1 - INVESTIGACIÓN/3. Conceptos básicos de estadística
 
-https://quizizz.com/admin/quiz/64786bfc59af19001d2d8cfc?source=quiz_share
+https://quizizz.com/embed/quiz/64786bfc59af19001d2d8cfc
 
 #### 1 - INVESTIGACIÓN/4. Ejemplos de diseño de investigación
 
-https://quizizz.com/admin/quiz/6478624ef4b2bb001d4d7869?source=quiz_share
+https://quizizz.com/embed/quiz/6478624ef4b2bb001d4d7869
 
 #### 1 - INVESTIGACIÓN/6. Repaso general 2
 
